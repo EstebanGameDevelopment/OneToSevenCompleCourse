@@ -4,3 +4,6 @@
 [submodule "Assets/Game/Libraries/Networking"]
 	path = Assets/Game/Libraries/Networking
 	url = https://github.com/EstebanGameDevelopment/OneToSevenNetworking.git
+[submodule "Assets/Game/Libraries/VR"]
+	path = Assets/Game/Libraries/VR
+	url = https://github.com/EstebanGameDevelopment/OneToSevenVR.git
