@@ -1,0 +1,17 @@
+{
+    "name": "Wave.Essence.InputModule",
+    "references": [
+        "GUID:ba171b3dd2a51234ab864770f99741a5",
+        "GUID:dc6ae5be80485d949a25aa157e051ed8",
+        "GUID:b7c74153ccbcf534aa653a77f62bd182"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

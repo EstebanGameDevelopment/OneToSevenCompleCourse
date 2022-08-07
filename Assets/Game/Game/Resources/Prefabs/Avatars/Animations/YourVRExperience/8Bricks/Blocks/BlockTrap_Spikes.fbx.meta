@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: c2063dab47a5142ca879b382e5fa82b0
+timeCreated: 1460043881
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BlockSpears_Base
+    100002: BlockSpears_Spear_1
+    100004: BlockSpears_Spear_2
+    100006: BlockSpears_Spear_3
+    100008: BlockSpears_Spear_4
+    100010: //RootNode
+    100012: mdl_BlockSpears:bn_Displacement
+    100014: mdl_BlockSpears:bn_Spear_DL
+    100016: mdl_BlockSpears:bn_Spear_DR
+    100018: mdl_BlockSpears:bn_Spear_UL
+    100020: mdl_BlockSpears:bn_Spear_UR
+    100022: mdl_BlockSpears:eff_Displacement
+    100024: mdl_BlockSpears:eff_Spear_DL
+    100026: mdl_BlockSpears:eff_Spear_DR
+    100028: mdl_BlockSpears:eff_Spear_UL
+    100030: mdl_BlockSpears:eff_Spear_UR
+    100032: mdl_BlockSpears:mdl_BlockSpears
+    100034: mdl_BlockSpears:rt_Displacement
+    100036: mdl_BlockSpears:rt_Spear_DL
+    100038: mdl_BlockSpears:rt_Spear_DR
+    100040: mdl_BlockSpears:rt_Spear_UL
+    100042: mdl_BlockSpears:rt_Spear_UR
+    400000: BlockSpears_Base
+    400002: BlockSpears_Spear_1
+    400004: BlockSpears_Spear_2
+    400006: BlockSpears_Spear_3
+    400008: BlockSpears_Spear_4
+    400010: //RootNode
+    400012: mdl_BlockSpears:bn_Displacement
+    400014: mdl_BlockSpears:bn_Spear_DL
+    400016: mdl_BlockSpears:bn_Spear_DR
+    400018: mdl_BlockSpears:bn_Spear_UL
+    400020: mdl_BlockSpears:bn_Spear_UR
+    400022: mdl_BlockSpears:eff_Displacement
+    400024: mdl_BlockSpears:eff_Spear_DL
+    400026: mdl_BlockSpears:eff_Spear_DR
+    400028: mdl_BlockSpears:eff_Spear_UL
+    400030: mdl_BlockSpears:eff_Spear_UR
+    400032: mdl_BlockSpears:mdl_BlockSpears
+    400034: mdl_BlockSpears:rt_Displacement
+    400036: mdl_BlockSpears:rt_Spear_DL
+    400038: mdl_BlockSpears:rt_Spear_DR
+    400040: mdl_BlockSpears:rt_Spear_UL
+    400042: mdl_BlockSpears:rt_Spear_UR
+    2300000: BlockSpears_Base
+    3300000: BlockSpears_Base
+    4300000: BlockSpears_Base
+    4300002: BlockSpears_Spear_1
+    4300004: BlockSpears_Spear_2
+    4300006: BlockSpears_Spear_3
+    4300008: BlockSpears_Spear_4
+    7400000: BlockTrapSpike_anSpin
+    7400002: BlockTrapSpike_anUp
+    7400004: BlockTrapSpike_anDown
+    9500000: //RootNode
+    13700000: BlockSpears_Spear_1
+    13700002: BlockSpears_Spear_2
+    13700004: BlockSpears_Spear_3
+    13700006: BlockSpears_Spear_4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BlockTrapSpike_anSpin
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BlockSpears_Base
+        weight: 1
+      - path: BlockSpears_Spear_1
+        weight: 1
+      - path: BlockSpears_Spear_2
+        weight: 1
+      - path: BlockSpears_Spear_3
+        weight: 1
+      - path: BlockSpears_Spear_4
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:eff_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL/mdl_BlockSpears:eff_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR/mdl_BlockSpears:eff_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL/mdl_BlockSpears:eff_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR/mdl_BlockSpears:eff_Spear_UR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: BlockTrapSpike_anUp
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BlockSpears_Base
+        weight: 1
+      - path: BlockSpears_Spear_1
+        weight: 1
+      - path: BlockSpears_Spear_2
+        weight: 1
+      - path: BlockSpears_Spear_3
+        weight: 1
+      - path: BlockSpears_Spear_4
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:eff_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL/mdl_BlockSpears:eff_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR/mdl_BlockSpears:eff_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL/mdl_BlockSpears:eff_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR/mdl_BlockSpears:eff_Spear_UR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: BlockTrapSpike_anDown
+      takeName: Take 001
+      firstFrame: 251
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BlockSpears_Base
+        weight: 1
+      - path: BlockSpears_Spear_1
+        weight: 1
+      - path: BlockSpears_Spear_2
+        weight: 1
+      - path: BlockSpears_Spear_3
+        weight: 1
+      - path: BlockSpears_Spear_4
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:eff_Displacement
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DL/mdl_BlockSpears:bn_Spear_DL/mdl_BlockSpears:eff_Spear_DL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_DR/mdl_BlockSpears:bn_Spear_DR/mdl_BlockSpears:eff_Spear_DR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UL/mdl_BlockSpears:bn_Spear_UL/mdl_BlockSpears:eff_Spear_UL
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR
+        weight: 1
+      - path: mdl_BlockSpears:mdl_BlockSpears/mdl_BlockSpears:rt_Displacement/mdl_BlockSpears:bn_Displacement/mdl_BlockSpears:rt_Spear_UR/mdl_BlockSpears:bn_Spear_UR/mdl_BlockSpears:eff_Spear_UR
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

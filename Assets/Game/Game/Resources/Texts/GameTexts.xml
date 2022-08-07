@@ -1,0 +1,23 @@
+<texts>
+
+	<text id="screen.main.menu">
+		<en>Welcome To My Game</en>
+		<es>Bienvenido a mi Juego</es>
+	</text>
+
+	<text id="screen.win">
+		<en>You are great! You won!!</en>
+		<es>Eres genial! Has ganado!!</es>
+	</text>
+
+	<text id="screen.lose">
+		<en>Sorry! You Lose.</en>
+		<es>Lo siento! Has perdido.</es>
+	</text>
+
+  <text id="screen.pause">
+    <en>Game In Pause</en>
+    <es>Juego en pausa</es>
+  </text>
+  
+</texts>

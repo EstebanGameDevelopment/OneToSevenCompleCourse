@@ -1,0 +1,21 @@
+{
+    "name": "Wave.Essence.Interaction.Mode",
+    "references": [
+        "GUID:ba171b3dd2a51234ab864770f99741a5",
+        "GUID:dc6ae5be80485d949a25aa157e051ed8",
+        "GUID:b7c74153ccbcf534aa653a77f62bd182",
+        "GUID:0c572875a8a7691479b49acff8fc6550",
+        "GUID:a2c93997ab7d5924ebdb4ef4298a669d",
+        "GUID:019a2b6aa9c13b84288e7b88b74b05da",
+        "GUID:b61e31fcaa3ec465fb7e4835ff61bfc2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

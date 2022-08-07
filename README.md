@@ -1,2 +1,2 @@
-# OneToSevenCompleCourse
-OneToSevenCompleCourse
+# OneToSevenGameProgrammingCourse
+OneToSevenGameProgrammingCourse description

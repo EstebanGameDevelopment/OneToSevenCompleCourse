@@ -1,0 +1,16 @@
+{
+    "name": "Wave.Essence.Hand.Model",
+    "references": [
+        "Wave.Essence",
+        "Wave.Native"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

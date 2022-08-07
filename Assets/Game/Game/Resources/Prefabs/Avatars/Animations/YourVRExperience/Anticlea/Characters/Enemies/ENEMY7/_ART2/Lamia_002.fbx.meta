@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: cb3dfc02b2b270f40b9ba1ed337c298d
+timeCreated: 1445621600
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm.l
+    100002: arm.r
+    100004: Armature_Lamia_001
+    100006: armUp.l
+    100008: armUp.r
+    100010: Bone
+    100012: Bone.001
+    100014: Bone.002
+    100016: Bone.003
+    100018: Bone.004
+    100020: Bone.005
+    100022: Bone.006
+    100024: Bone.007
+    100026: Bone.008
+    100028: Bone.009
+    100030: Bone.009_end
+    100032: Bone.010
+    100034: Bone.019
+    100036: Bone.020
+    100038: Bone.021
+    100040: Bone.022
+    100042: Bone.023
+    100044: Bone.024
+    100046: Bone.025
+    100048: Bone.026
+    100050: Bone.027
+    100052: Bone.028
+    100054: Bone.029
+    100056: Bone.030
+    100058: Bone.031
+    100060: Bone.031_end
+    100062: clavi.l
+    100064: clavi.r
+    100066: finger01.l
+    100068: finger01.r
+    100070: finger02.l
+    100072: finger02.l_end
+    100074: finger02.r
+    100076: finger02.r_end
+    100078: hand.l
+    100080: hand.r
+    100082: //RootNode
+    100084: Lamia_Model_001
+    100086: thumb01.l
+    100088: thumb01.r
+    100090: thumb02.l
+    100092: thumb02.r
+    100094: thumb03.l
+    100096: thumb03.l_end
+    100098: thumb03.r
+    100100: thumb03.r_end
+    400000: arm.l
+    400002: arm.r
+    400004: Armature_Lamia_001
+    400006: armUp.l
+    400008: armUp.r
+    400010: Bone
+    400012: Bone.001
+    400014: Bone.002
+    400016: Bone.003
+    400018: Bone.004
+    400020: Bone.005
+    400022: Bone.006
+    400024: Bone.007
+    400026: Bone.008
+    400028: Bone.009
+    400030: Bone.009_end
+    400032: Bone.010
+    400034: Bone.019
+    400036: Bone.020
+    400038: Bone.021
+    400040: Bone.022
+    400042: Bone.023
+    400044: Bone.024
+    400046: Bone.025
+    400048: Bone.026
+    400050: Bone.027
+    400052: Bone.028
+    400054: Bone.029
+    400056: Bone.030
+    400058: Bone.031
+    400060: Bone.031_end
+    400062: clavi.l
+    400064: clavi.r
+    400066: finger01.l
+    400068: finger01.r
+    400070: finger02.l
+    400072: finger02.l_end
+    400074: finger02.r
+    400076: finger02.r_end
+    400078: hand.l
+    400080: hand.r
+    400082: //RootNode
+    400084: Lamia_Model_001
+    400086: thumb01.l
+    400088: thumb01.r
+    400090: thumb02.l
+    400092: thumb02.r
+    400094: thumb03.l
+    400096: thumb03.l_end
+    400098: thumb03.r
+    400100: thumb03.r_end
+    4300000: Lamia_Model_001
+    7400000: Armature_Lamia_001|attack_01
+    7400002: Armature_Lamia_001|attack_02
+    7400004: Armature_Lamia_001|damage
+    7400006: Armature_Lamia_001|die
+    7400008: Armature_Lamia_001|idle
+    7400010: Armature_Lamia_001|walk_01
+    7400012: Armature_Lamia_001|walk_02
+    7400014: Armature_Lamia_001|walk_03
+    7400016: Lamia_Model_001|idle
+    9500000: //RootNode
+    13700000: Lamia_Model_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature_Lamia_001|attack_01
+      takeName: Armature_Lamia_001|attack_01
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|attack_02
+      takeName: Armature_Lamia_001|attack_02
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|damage
+      takeName: Armature_Lamia_001|damage
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|die
+      takeName: Armature_Lamia_001|die
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|idle
+      takeName: Armature_Lamia_001|idle
+      firstFrame: 0
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|walk_01
+      takeName: Armature_Lamia_001|walk_01
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|walk_02
+      takeName: Armature_Lamia_001|walk_02
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature_Lamia_001|walk_03
+      takeName: Armature_Lamia_001|walk_03
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamia_Model_001|idle
+      takeName: Lamia_Model_001|idle
+      firstFrame: 0
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lamia_001
+        weight: 1
+      - path: Armature_Lamia_001/Bone
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/Bone.004/Bone.005/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/finger01.l/finger02.l/finger02.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.l/armUp.l/arm.l/hand.l/thumb01.l/thumb02.l/thumb03.l/thumb03.l_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/finger01.r/finger02.r/finger02.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.001/Bone.002/Bone.010/Bone.006/Bone.003/clavi.r/armUp.r/arm.r/hand.r/thumb01.r/thumb02.r/thumb03.r/thumb03.r_end
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031
+        weight: 1
+      - path: Armature_Lamia_001/Bone/Bone.019/Bone.020/Bone.021/Bone.022/Bone.023/Bone.024/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.030/Bone.031/Bone.031_end
+        weight: 1
+      - path: Lamia_Model_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

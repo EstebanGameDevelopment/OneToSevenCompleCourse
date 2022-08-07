@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: c5b81427ade93464d8497fa1eef29347
+timeCreated: 1457179371
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Enemy01_Main
+    100004: Enemy01_Mdl:bn_Rotator_Satelite1
+    100006: Enemy01_Mdl:bn_Rotator_Satelite2
+    100008: Enemy01_Mdl:bn_Rotator_Satelite3
+    100010: Enemy01_Mdl:bn_Spine
+    100012: Enemy01_Mdl:bn_Translator_Satelite1
+    100014: Enemy01_Mdl:bn_Translator_Satelite2
+    100016: Enemy01_Mdl:bn_Translator_Satelite3
+    100018: Enemy01_Mdl:eff_Rotator_Satelite1
+    100020: Enemy01_Mdl:eff_Rotator_Satelite2
+    100022: Enemy01_Mdl:eff_Rotator_Satelite3
+    100024: Enemy01_Mdl:eff_Spine
+    100026: Enemy01_Mdl:eff_Translator_Satelite1
+    100028: Enemy01_Mdl:eff_Translator_Satelite2
+    100030: Enemy01_Mdl:eff_Translator_Satelite3
+    100032: Enemy01_Mdl:Enemy01_Mdl
+    100034: Enemy01_Mdl:Rig
+    100036: Enemy01_Mdl:rt_Rotator_Satelite1
+    100038: Enemy01_Mdl:rt_Rotator_Satelite2
+    100040: Enemy01_Mdl:rt_Rotator_Satelite3
+    100042: Enemy01_Mdl:rt_Spine
+    100044: Enemy01_Mdl:rt_Translator_Satelite1
+    100046: Enemy01_Mdl:rt_Translator_Satelite2
+    100048: Enemy01_Mdl:rt_Translator_Satelite3
+    100050: Enemy01_Satelite_1
+    100052: Enemy01_Satelite_2
+    100054: Enemy01_Satelite_3
+    400000: //RootNode
+    400002: Enemy01_Main
+    400004: Enemy01_Mdl:bn_Rotator_Satelite1
+    400006: Enemy01_Mdl:bn_Rotator_Satelite2
+    400008: Enemy01_Mdl:bn_Rotator_Satelite3
+    400010: Enemy01_Mdl:bn_Spine
+    400012: Enemy01_Mdl:bn_Translator_Satelite1
+    400014: Enemy01_Mdl:bn_Translator_Satelite2
+    400016: Enemy01_Mdl:bn_Translator_Satelite3
+    400018: Enemy01_Mdl:eff_Rotator_Satelite1
+    400020: Enemy01_Mdl:eff_Rotator_Satelite2
+    400022: Enemy01_Mdl:eff_Rotator_Satelite3
+    400024: Enemy01_Mdl:eff_Spine
+    400026: Enemy01_Mdl:eff_Translator_Satelite1
+    400028: Enemy01_Mdl:eff_Translator_Satelite2
+    400030: Enemy01_Mdl:eff_Translator_Satelite3
+    400032: Enemy01_Mdl:Enemy01_Mdl
+    400034: Enemy01_Mdl:Rig
+    400036: Enemy01_Mdl:rt_Rotator_Satelite1
+    400038: Enemy01_Mdl:rt_Rotator_Satelite2
+    400040: Enemy01_Mdl:rt_Rotator_Satelite3
+    400042: Enemy01_Mdl:rt_Spine
+    400044: Enemy01_Mdl:rt_Translator_Satelite1
+    400046: Enemy01_Mdl:rt_Translator_Satelite2
+    400048: Enemy01_Mdl:rt_Translator_Satelite3
+    400050: Enemy01_Satelite_1
+    400052: Enemy01_Satelite_2
+    400054: Enemy01_Satelite_3
+    4300000: Enemy01_Main
+    4300002: Enemy01_Satelite_2
+    4300004: Enemy01_Satelite_3
+    4300006: Enemy01_Satelite_1
+    7400000: Enemy01_anIdle
+    7400002: Enemy01_anWalk
+    7400004: Enemy01_anDie
+    9500000: //RootNode
+    13700000: Enemy01_Main
+    13700002: Enemy01_Satelite_1
+    13700004: Enemy01_Satelite_2
+    13700006: Enemy01_Satelite_3
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Enemy01_anIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy01_Main
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:eff_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:eff_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1/Enemy01_Mdl:eff_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:eff_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2/Enemy01_Mdl:eff_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:eff_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3/Enemy01_Mdl:eff_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Satelite_1
+        weight: 1
+      - path: Enemy01_Satelite_2
+        weight: 1
+      - path: Enemy01_Satelite_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enemy01_anWalk
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 201
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy01_Main
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:eff_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:eff_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1/Enemy01_Mdl:eff_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:eff_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2/Enemy01_Mdl:eff_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:eff_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3/Enemy01_Mdl:eff_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Satelite_1
+        weight: 1
+      - path: Enemy01_Satelite_2
+        weight: 1
+      - path: Enemy01_Satelite_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Enemy01_anDie
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 271
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy01_Main
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:eff_Spine
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:eff_Translator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite1/Enemy01_Mdl:bn_Translator_Satelite1/Enemy01_Mdl:rt_Rotator_Satelite1/Enemy01_Mdl:bn_Rotator_Satelite1/Enemy01_Mdl:eff_Rotator_Satelite1
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:eff_Translator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite2/Enemy01_Mdl:bn_Translator_Satelite2/Enemy01_Mdl:rt_Rotator_Satelite2/Enemy01_Mdl:bn_Rotator_Satelite2/Enemy01_Mdl:eff_Rotator_Satelite2
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:eff_Translator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Mdl:Enemy01_Mdl/Enemy01_Mdl:Rig/Enemy01_Mdl:rt_Spine/Enemy01_Mdl:bn_Spine/Enemy01_Mdl:rt_Translator_Satelite3/Enemy01_Mdl:bn_Translator_Satelite3/Enemy01_Mdl:rt_Rotator_Satelite3/Enemy01_Mdl:bn_Rotator_Satelite3/Enemy01_Mdl:eff_Rotator_Satelite3
+        weight: 1
+      - path: Enemy01_Satelite_1
+        weight: 1
+      - path: Enemy01_Satelite_2
+        weight: 1
+      - path: Enemy01_Satelite_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

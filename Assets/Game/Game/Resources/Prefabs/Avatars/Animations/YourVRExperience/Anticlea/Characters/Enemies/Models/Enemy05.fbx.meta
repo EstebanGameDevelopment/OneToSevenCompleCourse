@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: ce6bcc72d7a6d41ed84f8a45c06aeb61
+timeCreated: 1459277341
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Enemy06Boss
+    100004: mdl_Enemy05:bn_Arm_L_1
+    100006: mdl_Enemy05:bn_Arm_L_2
+    100008: mdl_Enemy05:bn_Arm_R_1
+    100010: mdl_Enemy05:bn_Arm_R_2
+    100012: mdl_Enemy05:bn_Chest
+    100014: mdl_Enemy05:bn_Foot_L_1
+    100016: mdl_Enemy05:bn_Foot_L_2
+    100018: mdl_Enemy05:bn_Foot_R_1
+    100020: mdl_Enemy05:bn_Foot_R_2
+    100022: mdl_Enemy05:bn_Hand_L
+    100024: mdl_Enemy05:bn_Hand_R
+    100026: mdl_Enemy05:bn_Head
+    100028: mdl_Enemy05:bn_Heart_L_1
+    100030: mdl_Enemy05:bn_Heart_L_2
+    100032: mdl_Enemy05:bn_Heart_L_3
+    100034: mdl_Enemy05:bn_Heart_R_1
+    100036: mdl_Enemy05:bn_Heart_R_2
+    100038: mdl_Enemy05:bn_Heart_R_3
+    100040: mdl_Enemy05:bn_Hips
+    100042: mdl_Enemy05:bn_Index_L_1
+    100044: mdl_Enemy05:bn_Index_L_2
+    100046: mdl_Enemy05:bn_Index_L_3
+    100048: mdl_Enemy05:bn_Index_R_1
+    100050: mdl_Enemy05:bn_Index_R_2
+    100052: mdl_Enemy05:bn_Index_R_3
+    100054: mdl_Enemy05:bn_Leg_L_1
+    100056: mdl_Enemy05:bn_Leg_L_2
+    100058: mdl_Enemy05:bn_Leg_R_1
+    100060: mdl_Enemy05:bn_Leg_R_2
+    100062: mdl_Enemy05:bn_Middle_L_1
+    100064: mdl_Enemy05:bn_Middle_L_2
+    100066: mdl_Enemy05:bn_Middle_L_3
+    100068: mdl_Enemy05:bn_Middle_R_1
+    100070: mdl_Enemy05:bn_Middle_R_2
+    100072: mdl_Enemy05:bn_Middle_R_3
+    100074: mdl_Enemy05:bn_Neck
+    100076: mdl_Enemy05:bn_Pinky_L_1
+    100078: mdl_Enemy05:bn_Pinky_L_2
+    100080: mdl_Enemy05:bn_Pinky_L_3
+    100082: mdl_Enemy05:BN_Pinky_R_1
+    100084: mdl_Enemy05:BN_Pinky_R_2
+    100086: mdl_Enemy05:BN_Pinky_R_3
+    100088: mdl_Enemy05:bn_Shoulder_L
+    100090: mdl_Enemy05:bn_Shoulder_R
+    100092: mdl_Enemy05:bn_Spine
+    100094: mdl_Enemy05:bn_Thumb_L_1
+    100096: mdl_Enemy05:bn_Thumb_L_2
+    100098: mdl_Enemy05:bn_Thumb_L_3
+    100100: mdl_Enemy05:bn_Thumb_R_1
+    100102: mdl_Enemy05:bn_Thumb_R_2
+    100104: mdl_Enemy05:bn_Thumb_R_3
+    100106: mdl_Enemy05:eff_Arm_L
+    100108: mdl_Enemy05:eff_Arm_R
+    100110: mdl_Enemy05:eff_Foot_L
+    100112: mdl_Enemy05:eff_Foot_R
+    100114: mdl_Enemy05:eff_Hand_L
+    100116: mdl_Enemy05:eff_Hand_R
+    100118: mdl_Enemy05:eff_Head
+    100120: mdl_Enemy05:eff_Heart_L
+    100122: mdl_Enemy05:eff_Heart_R
+    100124: mdl_Enemy05:eff_Index_L
+    100126: mdl_Enemy05:eff_Index_R
+    100128: mdl_Enemy05:eff_Leg_L
+    100130: mdl_Enemy05:eff_Leg_R
+    100132: mdl_Enemy05:eff_Middle_L
+    100134: mdl_Enemy05:eff_Middle_R
+    100136: mdl_Enemy05:eff_Pinky_L
+    100138: mdl_Enemy05:eff_Pinky_R
+    100140: mdl_Enemy05:eff_Shoulder_L
+    100142: mdl_Enemy05:eff_Shoulder_R
+    100144: mdl_Enemy05:eff_Spine
+    100146: mdl_Enemy05:eff_Thumb_L
+    100148: mdl_Enemy05:eff_Thumb_R
+    100150: mdl_Enemy05:mdl_Enemy05
+    100152: mdl_Enemy05:Rig
+    100154: mdl_Enemy05:rt_Arm_L
+    100156: mdl_Enemy05:rt_Arm_R
+    100158: mdl_Enemy05:rt_Foot_L
+    100160: mdl_Enemy05:rt_Foot_R
+    100162: mdl_Enemy05:rt_Hand_L
+    100164: mdl_Enemy05:rt_Hand_R
+    100166: mdl_Enemy05:rt_Head
+    100168: mdl_Enemy05:rt_Heart_L
+    100170: mdl_Enemy05:rt_Heart_R
+    100172: mdl_Enemy05:rt_Index_L
+    100174: mdl_Enemy05:rt_Index_R
+    100176: mdl_Enemy05:rt_Leg_L
+    100178: mdl_Enemy05:rt_Leg_R
+    100180: mdl_Enemy05:rt_Middle_L
+    100182: mdl_Enemy05:rt_Middle_R
+    100184: mdl_Enemy05:rt_Pinky_L
+    100186: mdl_Enemy05:rt_Pinky_R
+    100188: mdl_Enemy05:rt_Shoulder_L
+    100190: mdl_Enemy05:rt_Shoulder_R
+    100192: mdl_Enemy05:rt_Spine
+    100194: mdl_Enemy05:rt_Thumb_L
+    100196: mdl_Enemy05:rt_Thumb_R
+    400000: //RootNode
+    400002: Enemy06Boss
+    400004: mdl_Enemy05:bn_Arm_L_1
+    400006: mdl_Enemy05:bn_Arm_L_2
+    400008: mdl_Enemy05:bn_Arm_R_1
+    400010: mdl_Enemy05:bn_Arm_R_2
+    400012: mdl_Enemy05:bn_Chest
+    400014: mdl_Enemy05:bn_Foot_L_1
+    400016: mdl_Enemy05:bn_Foot_L_2
+    400018: mdl_Enemy05:bn_Foot_R_1
+    400020: mdl_Enemy05:bn_Foot_R_2
+    400022: mdl_Enemy05:bn_Hand_L
+    400024: mdl_Enemy05:bn_Hand_R
+    400026: mdl_Enemy05:bn_Head
+    400028: mdl_Enemy05:bn_Heart_L_1
+    400030: mdl_Enemy05:bn_Heart_L_2
+    400032: mdl_Enemy05:bn_Heart_L_3
+    400034: mdl_Enemy05:bn_Heart_R_1
+    400036: mdl_Enemy05:bn_Heart_R_2
+    400038: mdl_Enemy05:bn_Heart_R_3
+    400040: mdl_Enemy05:bn_Hips
+    400042: mdl_Enemy05:bn_Index_L_1
+    400044: mdl_Enemy05:bn_Index_L_2
+    400046: mdl_Enemy05:bn_Index_L_3
+    400048: mdl_Enemy05:bn_Index_R_1
+    400050: mdl_Enemy05:bn_Index_R_2
+    400052: mdl_Enemy05:bn_Index_R_3
+    400054: mdl_Enemy05:bn_Leg_L_1
+    400056: mdl_Enemy05:bn_Leg_L_2
+    400058: mdl_Enemy05:bn_Leg_R_1
+    400060: mdl_Enemy05:bn_Leg_R_2
+    400062: mdl_Enemy05:bn_Middle_L_1
+    400064: mdl_Enemy05:bn_Middle_L_2
+    400066: mdl_Enemy05:bn_Middle_L_3
+    400068: mdl_Enemy05:bn_Middle_R_1
+    400070: mdl_Enemy05:bn_Middle_R_2
+    400072: mdl_Enemy05:bn_Middle_R_3
+    400074: mdl_Enemy05:bn_Neck
+    400076: mdl_Enemy05:bn_Pinky_L_1
+    400078: mdl_Enemy05:bn_Pinky_L_2
+    400080: mdl_Enemy05:bn_Pinky_L_3
+    400082: mdl_Enemy05:BN_Pinky_R_1
+    400084: mdl_Enemy05:BN_Pinky_R_2
+    400086: mdl_Enemy05:BN_Pinky_R_3
+    400088: mdl_Enemy05:bn_Shoulder_L
+    400090: mdl_Enemy05:bn_Shoulder_R
+    400092: mdl_Enemy05:bn_Spine
+    400094: mdl_Enemy05:bn_Thumb_L_1
+    400096: mdl_Enemy05:bn_Thumb_L_2
+    400098: mdl_Enemy05:bn_Thumb_L_3
+    400100: mdl_Enemy05:bn_Thumb_R_1
+    400102: mdl_Enemy05:bn_Thumb_R_2
+    400104: mdl_Enemy05:bn_Thumb_R_3
+    400106: mdl_Enemy05:eff_Arm_L
+    400108: mdl_Enemy05:eff_Arm_R
+    400110: mdl_Enemy05:eff_Foot_L
+    400112: mdl_Enemy05:eff_Foot_R
+    400114: mdl_Enemy05:eff_Hand_L
+    400116: mdl_Enemy05:eff_Hand_R
+    400118: mdl_Enemy05:eff_Head
+    400120: mdl_Enemy05:eff_Heart_L
+    400122: mdl_Enemy05:eff_Heart_R
+    400124: mdl_Enemy05:eff_Index_L
+    400126: mdl_Enemy05:eff_Index_R
+    400128: mdl_Enemy05:eff_Leg_L
+    400130: mdl_Enemy05:eff_Leg_R
+    400132: mdl_Enemy05:eff_Middle_L
+    400134: mdl_Enemy05:eff_Middle_R
+    400136: mdl_Enemy05:eff_Pinky_L
+    400138: mdl_Enemy05:eff_Pinky_R
+    400140: mdl_Enemy05:eff_Shoulder_L
+    400142: mdl_Enemy05:eff_Shoulder_R
+    400144: mdl_Enemy05:eff_Spine
+    400146: mdl_Enemy05:eff_Thumb_L
+    400148: mdl_Enemy05:eff_Thumb_R
+    400150: mdl_Enemy05:mdl_Enemy05
+    400152: mdl_Enemy05:Rig
+    400154: mdl_Enemy05:rt_Arm_L
+    400156: mdl_Enemy05:rt_Arm_R
+    400158: mdl_Enemy05:rt_Foot_L
+    400160: mdl_Enemy05:rt_Foot_R
+    400162: mdl_Enemy05:rt_Hand_L
+    400164: mdl_Enemy05:rt_Hand_R
+    400166: mdl_Enemy05:rt_Head
+    400168: mdl_Enemy05:rt_Heart_L
+    400170: mdl_Enemy05:rt_Heart_R
+    400172: mdl_Enemy05:rt_Index_L
+    400174: mdl_Enemy05:rt_Index_R
+    400176: mdl_Enemy05:rt_Leg_L
+    400178: mdl_Enemy05:rt_Leg_R
+    400180: mdl_Enemy05:rt_Middle_L
+    400182: mdl_Enemy05:rt_Middle_R
+    400184: mdl_Enemy05:rt_Pinky_L
+    400186: mdl_Enemy05:rt_Pinky_R
+    400188: mdl_Enemy05:rt_Shoulder_L
+    400190: mdl_Enemy05:rt_Shoulder_R
+    400192: mdl_Enemy05:rt_Spine
+    400194: mdl_Enemy05:rt_Thumb_L
+    400196: mdl_Enemy05:rt_Thumb_R
+    4300000: Enemy06Boss
+    7400000: Enemy05_anQuiet01
+    7400002: Enemy05_anQuiet02
+    7400004: Enemy05_anQuiet03
+    7400006: Enemy05_anDie
+    7400008: Enemy05_anRun
+    9500000: //RootNode
+    13700000: Enemy06Boss
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Enemy05_anQuiet01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy06Boss
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:eff_Spine
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head/mdl_Enemy05:eff_Head
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:eff_Shoulder_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:eff_Arm_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:eff_Hand_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3/mdl_Enemy05:eff_Heart_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3/mdl_Enemy05:eff_Index_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3/mdl_Enemy05:eff_Middle_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3/mdl_Enemy05:eff_Pinky_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3/mdl_Enemy05:eff_Thumb_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:eff_Shoulder_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:eff_Arm_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:eff_Hand_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3/mdl_Enemy05:eff_Heart_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3/mdl_Enemy05:eff_Index_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3/mdl_Enemy05:eff_Middle_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3/mdl_Enemy05:eff_Pinky_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3/mdl_Enemy05:eff_Thumb_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:eff_Leg_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2/mdl_Enemy05:eff_Foot_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:eff_Leg_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2/mdl_Enemy05:eff_Foot_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Enemy05_anQuiet02
+      takeName: Take 001
+      firstFrame: 6
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy06Boss
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:eff_Spine
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head/mdl_Enemy05:eff_Head
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:eff_Shoulder_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:eff_Arm_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:eff_Hand_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3/mdl_Enemy05:eff_Heart_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3/mdl_Enemy05:eff_Index_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3/mdl_Enemy05:eff_Middle_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3/mdl_Enemy05:eff_Pinky_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3/mdl_Enemy05:eff_Thumb_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:eff_Shoulder_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:eff_Arm_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:eff_Hand_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3/mdl_Enemy05:eff_Heart_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3/mdl_Enemy05:eff_Index_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3/mdl_Enemy05:eff_Middle_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3/mdl_Enemy05:eff_Pinky_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3/mdl_Enemy05:eff_Thumb_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:eff_Leg_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2/mdl_Enemy05:eff_Foot_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:eff_Leg_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2/mdl_Enemy05:eff_Foot_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Enemy05_anQuiet03
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy06Boss
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:eff_Spine
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head/mdl_Enemy05:eff_Head
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:eff_Shoulder_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:eff_Arm_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:eff_Hand_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3/mdl_Enemy05:eff_Heart_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3/mdl_Enemy05:eff_Index_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3/mdl_Enemy05:eff_Middle_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3/mdl_Enemy05:eff_Pinky_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3/mdl_Enemy05:eff_Thumb_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:eff_Shoulder_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:eff_Arm_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:eff_Hand_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3/mdl_Enemy05:eff_Heart_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3/mdl_Enemy05:eff_Index_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3/mdl_Enemy05:eff_Middle_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3/mdl_Enemy05:eff_Pinky_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3/mdl_Enemy05:eff_Thumb_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:eff_Leg_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2/mdl_Enemy05:eff_Foot_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:eff_Leg_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2/mdl_Enemy05:eff_Foot_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Enemy05_anDie
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy06Boss
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:eff_Spine
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head/mdl_Enemy05:eff_Head
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:eff_Shoulder_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:eff_Arm_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:eff_Hand_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3/mdl_Enemy05:eff_Heart_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3/mdl_Enemy05:eff_Index_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3/mdl_Enemy05:eff_Middle_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3/mdl_Enemy05:eff_Pinky_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3/mdl_Enemy05:eff_Thumb_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:eff_Shoulder_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:eff_Arm_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:eff_Hand_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3/mdl_Enemy05:eff_Heart_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3/mdl_Enemy05:eff_Index_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3/mdl_Enemy05:eff_Middle_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3/mdl_Enemy05:eff_Pinky_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3/mdl_Enemy05:eff_Thumb_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:eff_Leg_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2/mdl_Enemy05:eff_Foot_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:eff_Leg_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2/mdl_Enemy05:eff_Foot_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Enemy05_anRun
+      takeName: Take 001
+      firstFrame: 116
+      lastFrame: 455
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Enemy06Boss
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:eff_Spine
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Head/mdl_Enemy05:bn_Neck/mdl_Enemy05:bn_Head/mdl_Enemy05:eff_Head
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:eff_Shoulder_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:eff_Arm_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:eff_Hand_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Heart_L/mdl_Enemy05:bn_Heart_L_1/mdl_Enemy05:bn_Heart_L_2/mdl_Enemy05:bn_Heart_L_3/mdl_Enemy05:eff_Heart_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Index_L/mdl_Enemy05:bn_Index_L_1/mdl_Enemy05:bn_Index_L_2/mdl_Enemy05:bn_Index_L_3/mdl_Enemy05:eff_Index_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Middle_L/mdl_Enemy05:bn_Middle_L_1/mdl_Enemy05:bn_Middle_L_2/mdl_Enemy05:bn_Middle_L_3/mdl_Enemy05:eff_Middle_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Pinky_L/mdl_Enemy05:bn_Pinky_L_1/mdl_Enemy05:bn_Pinky_L_2/mdl_Enemy05:bn_Pinky_L_3/mdl_Enemy05:eff_Pinky_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_L/mdl_Enemy05:bn_Shoulder_L/mdl_Enemy05:rt_Arm_L/mdl_Enemy05:bn_Arm_L_1/mdl_Enemy05:bn_Arm_L_2/mdl_Enemy05:rt_Hand_L/mdl_Enemy05:bn_Hand_L/mdl_Enemy05:rt_Thumb_L/mdl_Enemy05:bn_Thumb_L_1/mdl_Enemy05:bn_Thumb_L_2/mdl_Enemy05:bn_Thumb_L_3/mdl_Enemy05:eff_Thumb_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:eff_Shoulder_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:eff_Arm_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:eff_Hand_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Heart_R/mdl_Enemy05:bn_Heart_R_1/mdl_Enemy05:bn_Heart_R_2/mdl_Enemy05:bn_Heart_R_3/mdl_Enemy05:eff_Heart_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Index_R/mdl_Enemy05:bn_Index_R_1/mdl_Enemy05:bn_Index_R_2/mdl_Enemy05:bn_Index_R_3/mdl_Enemy05:eff_Index_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Middle_R/mdl_Enemy05:bn_Middle_R_1/mdl_Enemy05:bn_Middle_R_2/mdl_Enemy05:bn_Middle_R_3/mdl_Enemy05:eff_Middle_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Pinky_R/mdl_Enemy05:BN_Pinky_R_1/mdl_Enemy05:BN_Pinky_R_2/mdl_Enemy05:BN_Pinky_R_3/mdl_Enemy05:eff_Pinky_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:bn_Spine/mdl_Enemy05:bn_Chest/mdl_Enemy05:rt_Shoulder_R/mdl_Enemy05:bn_Shoulder_R/mdl_Enemy05:rt_Arm_R/mdl_Enemy05:bn_Arm_R_1/mdl_Enemy05:bn_Arm_R_2/mdl_Enemy05:rt_Hand_R/mdl_Enemy05:bn_Hand_R/mdl_Enemy05:rt_Thumb_R/mdl_Enemy05:bn_Thumb_R_1/mdl_Enemy05:bn_Thumb_R_2/mdl_Enemy05:bn_Thumb_R_3/mdl_Enemy05:eff_Thumb_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:eff_Leg_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_L/mdl_Enemy05:bn_Leg_L_1/mdl_Enemy05:bn_Leg_L_2/mdl_Enemy05:rt_Foot_L/mdl_Enemy05:bn_Foot_L_1/mdl_Enemy05:bn_Foot_L_2/mdl_Enemy05:eff_Foot_L
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:eff_Leg_R
+        weight: 0
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2
+        weight: 1
+      - path: mdl_Enemy05:mdl_Enemy05/mdl_Enemy05:Rig/mdl_Enemy05:rt_Spine/mdl_Enemy05:bn_Hips/mdl_Enemy05:rt_Leg_R/mdl_Enemy05:bn_Leg_R_1/mdl_Enemy05:bn_Leg_R_2/mdl_Enemy05:rt_Foot_R/mdl_Enemy05:bn_Foot_R_1/mdl_Enemy05:bn_Foot_R_2/mdl_Enemy05:eff_Foot_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: mdl_Enemy05:bn_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Leg_L_1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Leg_R_1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Leg_L_2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Leg_R_2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Foot_L_1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Foot_R_1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Arm_L_1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Arm_R_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Arm_L_2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Arm_R_2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Foot_L_2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Foot_R_2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_L_1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_L_2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_L_3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_L_1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_L_2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_L_3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_L_1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_L_2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_L_3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_L_1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_L_2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_L_3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Pinky_L_1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Pinky_L_2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Pinky_L_3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_R_1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_R_2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Thumb_R_3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_R_1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_R_2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Index_R_3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_R_1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_R_2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Middle_R_3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_R_1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_R_2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:bn_Heart_R_3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:BN_Pinky_R_1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:BN_Pinky_R_2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Enemy05:BN_Pinky_R_3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Enemy05(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Enemy06Boss
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:mdl_Enemy05
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:Rig
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Spine
+      position: {x: -1.8189894e-14, y: 0.04579485, z: -0.0018754464}
+      rotation: {x: 0.46495157, y: -0.5327476, z: -0.46495157, w: 0.5327476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Hips
+      position: {x: 4.2327254e-18, y: 0, z: -3.4717276e-30}
+      rotation: {x: 0, y: 0, z: 0.000000029802322, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Leg_L
+      position: {x: -0.0043716044, y: -0.0004564299, z: 0.0035139867}
+      rotation: {x: -0.07147966, y: 0.0026820598, z: 0.99673706, w: 0.037399564}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Leg_L_1
+      position: {x: -3.851086e-18, y: 0, z: -1.7390602e-18}
+      rotation: {x: 0.000000014901161, y: 0.000000059604645, z: -0.004424542, w: 0.9999902}
+      scale: {x: 0.9999999, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Leg_L_2
+      position: {x: -0.021709982, y: 5.20417e-19, z: -9.0911104e-20}
+      rotation: {x: -0.00000008940697, y: -0.000000044703484, z: -0.06486082, w: 0.9978944}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Leg_L
+      position: {x: -0.02229914, y: 0, z: 1.110223e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Foot_L
+      position: {x: -0.0223359, y: 0.000008993671, z: -0.000008085909}
+      rotation: {x: -0.020427588, y: -0.066476986, z: 0.430199, w: 0.90005136}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Foot_L_1
+      position: {x: -0, y: 0, z: -5.3125904e-20}
+      rotation: {x: 0.00000010430813, y: -0.0003658831, z: 0.00015953183, w: 1}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Foot_L_2
+      position: {x: -0.0068503455, y: -9.714452e-19, z: 7.8929915e-19}
+      rotation: {x: 0.000025760379, y: -0.00007340311, z: 0.33074835, w: 0.943719}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Foot_L
+      position: {x: -0.006522513, y: 2.1371793e-17, z: 1.110223e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Leg_R
+      position: {x: -0.0043716044, y: -0.0004564299, z: -0.0035139867}
+      rotation: {x: 0.07147966, y: -0.0026820598, z: 0.99673706, w: 0.037399564}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Leg_R_1
+      position: {x: -2.081668e-18, y: 5.551115e-19, z: 1.8388068e-18}
+      rotation: {x: 0.000000029802322, y: -0.000000029802322, z: -0.0044244677, w: 0.9999902}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999998}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Leg_R_2
+      position: {x: -0.021709982, y: -1.4658413e-18, z: 2.712749e-19}
+      rotation: {x: 0, y: -0.000000029802322, z: 0.06486091, w: -0.9978944}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Leg_R
+      position: {x: -0.02229914, y: 5.551115e-19, z: 5.5511148e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Foot_R
+      position: {x: -0.0223359, y: 0.000008993671, z: 0.000008085909}
+      rotation: {x: 0.020427588, y: 0.066476986, z: 0.430199, w: 0.90005136}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Foot_R_1
+      position: {x: -1.3877787e-18, y: 0, z: -1.2576745e-19}
+      rotation: {x: -0.00000008940697, y: 0.0003657639, z: 0.00015947223, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Foot_R_2
+      position: {x: -0.0068503455, y: 4.1633362e-19, z: -2.2377932e-18}
+      rotation: {x: -0.000025708225, y: 0.00007358193, z: 0.33074835, w: 0.943719}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Foot_R
+      position: {x: -0.006522513, y: -1.5265567e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Spine
+      position: {x: -0.01, y: -5.551115e-19, z: 1.2281578e-30}
+      rotation: {x: 0, y: 0, z: -0.06779609, w: 0.9976992}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Chest
+      position: {x: -0.01, y: 0, z: 1.8804472e-30}
+      rotation: {x: -0.000000029802322, y: -0.000000029802322, z: -0.05415222, w: 0.9985327}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Spine
+      position: {x: -0.010499999, y: 0, z: 4.9921756e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Head
+      position: {x: -0.014213471, y: -0.0011772782, z: -1.8180608e-14}
+      rotation: {x: -2.2204463e-16, y: 5.551116e-17, z: -0.13818425, w: 0.9904066}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Neck
+      position: {x: 1.8041123e-18, y: 0, z: 5.9164567e-33}
+      rotation: {x: -0.000000059604645, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Head
+      position: {x: -0.005262344, y: 2.220446e-18, z: -1.9721522e-33}
+      rotation: {x: 0.000000059604638, y: 0.000000059604638, z: 0.14720099, w: 0.98910666}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Head
+      position: {x: -0.0101485755, y: 1.110223e-18, z: 4.163387e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Shoulder_L
+      position: {x: -0.010812555, y: 0.0024549423, z: -0.0000740651}
+      rotation: {x: -0.4364297, y: 0.3260872, z: 0.60269207, w: 0.5830596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Shoulder_L
+      position: {x: 6.938894e-20, y: -8.5002956e-19, z: -2.7755575e-19}
+      rotation: {x: 0.00000012107192, y: -0.00000003748573, z: -0.00000003771856,
+        w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Shoulder_L
+      position: {x: -0.009161859, y: 0, z: 1.110223e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Arm_L
+      position: {x: -0.011271682, y: -0.0015652026, z: 0.0009916349}
+      rotation: {x: -0.4588065, y: -0.3108312, z: 0.48459578, w: 0.6767921}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Arm_L_1
+      position: {x: 3.6776136e-18, y: 5.551115e-19, z: 1.1915382e-18}
+      rotation: {x: -0.012629071, y: 0.5216776, z: 0.0385011, w: 0.85218}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Arm_L_2
+      position: {x: -0.014363972, y: 1.110223e-18, z: -1.9520392e-19}
+      rotation: {x: -0.00010889492, y: 0.003291256, z: 0.05629409, w: 0.9984088}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Arm_L
+      position: {x: -0.013932897, y: -2.220446e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Hand_L
+      position: {x: -0.0143748615, y: 0.0004809032, z: -0.000000106348}
+      rotation: {x: 0.011816773, y: 0.019279083, z: -0.045698285, w: 0.99869937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Hand_L
+      position: {x: 1.110223e-18, y: 0, z: -3.7470024e-18}
+      rotation: {x: -0.00000010430811, y: -0.000000044703473, z: -0.000000029802315,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Hand_L
+      position: {x: -0.005, y: 5.551115e-19, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Heart_L
+      position: {x: -0.004963161, y: 0.0004557646, z: 0.00024162108}
+      rotation: {x: 0.99612916, y: -0.08647966, z: -0.008139887, w: -0.013482268}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_L_1
+      position: {x: 2.1163627e-18, y: -5.551115e-19, z: -3.2092383e-18}
+      rotation: {x: 0.00000002945307, y: 0.0072472245, z: -0.037735462, w: 0.99926156}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_L_2
+      position: {x: -0.0015, y: 0, z: 1.7347234e-20}
+      rotation: {x: -0.00022083518, y: 0.04021501, z: 0.0054856236, w: 0.999176}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_L_3
+      position: {x: -0.0015, y: 0, z: 3.105155e-18}
+      rotation: {x: 0.000025197854, y: 0.040215567, z: -0.0006255207, w: 0.9991908}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Heart_L
+      position: {x: -0.0015, y: 0, z: -4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Index_L
+      position: {x: -0.00484111, y: -0.0018209597, z: 0.00031780815}
+      rotation: {x: 0.9775518, y: 0.21048792, z: -0.004550877, w: 0.00816753}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_L_1
+      position: {x: -1.9428903e-18, y: -2.220446e-18, z: -1.523033e-18}
+      rotation: {x: -0.00000017322591, y: -0.0081403665, z: 0.063490026, w: 0.99794924}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_L_2
+      position: {x: -0.0014, y: 3.8857806e-18, z: 5.377643e-19}
+      rotation: {x: -0.000220932, y: 0.040214896, z: 0.005485622, w: 0.99917597}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_L_3
+      position: {x: -0.0014, y: 3.2265857e-18, z: 2.8622937e-18}
+      rotation: {x: 0.00002522766, y: 0.040215645, z: -0.00062564, w: 0.99919087}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Index_L
+      position: {x: -0.0014, y: 2.220446e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Middle_L
+      position: {x: -0.0050023757, y: -0.0006919284, z: 0.0002224911}
+      rotation: {x: 0.9975504, y: 0.06815472, z: -0.00596361, w: -0.014576168}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_L_1
+      position: {x: -9.714452e-19, y: -5.551115e-19, z: -1.8214596e-18}
+      rotation: {x: -0.000000012107192, y: 0.007376033, z: 0.039027806, w: 0.99921095}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_L_2
+      position: {x: -0.0017, y: 2.7755575e-19, z: 5.551115e-19}
+      rotation: {x: -0.00022076067, y: 0.04021504, z: 0.0054856087, w: 0.999176}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_L_3
+      position: {x: -0.0017, y: 5.551115e-19, z: -1.110223e-18}
+      rotation: {x: 0.000025182957, y: 0.04021557, z: -0.00062550587, w: 0.9991908}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Middle_L
+      position: {x: -0.0017, y: -1.110223e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Pinky_L
+      position: {x: -0.0045769135, y: 0.0013836012, z: 0.00038021672}
+      rotation: {x: 0.9761726, y: -0.21272367, z: -0.021843152, w: 0.036857758}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Pinky_L_1
+      position: {x: 1.6653345e-18, y: -2.220446e-18, z: -2.1163627e-18}
+      rotation: {x: -0.00000027962955, y: 0.008745773, z: -0.20930468, w: 0.97781134}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Pinky_L_2
+      position: {x: -0.0014, y: -1.110223e-18, z: 9.714452e-19}
+      rotation: {x: -0.0002208128, y: 0.040215034, z: 0.0054856227, w: 0.999176}
+      scale: {x: 0.99999976, y: 0.9999995, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Pinky_L_3
+      position: {x: -0.0014, y: -1.110223e-18, z: -2.7755575e-19}
+      rotation: {x: 0.000025123354, y: 0.040215667, z: -0.0006254762, w: 0.9991908}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Pinky_L
+      position: {x: -0.0014, y: 2.220446e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Thumb_L
+      position: {x: -0.0016470703, y: -0.0013000132, z: -0.0011727473}
+      rotation: {x: -0.7202662, y: -0.41163048, z: -0.058979616, w: 0.5552463}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_L_1
+      position: {x: -5.551115e-19, y: -2.3245293e-18, z: 8.3266725e-19}
+      rotation: {x: 0.00000084564067, y: 0.15767656, z: -0.22402273, w: -0.9617442}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999976}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_L_2
+      position: {x: -0.0018999999, y: 7.4593105e-18, z: -2.7755574e-18}
+      rotation: {x: -0.00022073084, y: 0.04021502, z: 0.0054856227, w: 0.999176}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_L_3
+      position: {x: -0.0017, y: 5.724587e-19, z: -8.3266725e-19}
+      rotation: {x: 0.000025063744, y: 0.04021561, z: -0.0006255207, w: 0.99919087}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Thumb_L
+      position: {x: -0.0018999999, y: -3.330669e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Shoulder_R
+      position: {x: -0.010812555, y: 0.0024549423, z: 0.0000740651}
+      rotation: {x: 0.4364297, y: -0.3260872, z: 0.60269207, w: 0.5830596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Shoulder_R
+      position: {x: 4.857226e-19, y: -2.1978957e-19, z: 0}
+      rotation: {x: 0.000000040978193, y: 0.000000034691766, z: 0.00000011175871,
+        w: -1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Shoulder_R
+      position: {x: -0.009161859, y: -8.881784e-18, z: -3.8857806e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Arm_R
+      position: {x: -0.011271682, y: -0.0015652026, z: -0.0009916349}
+      rotation: {x: 0.4588065, y: 0.3108312, z: 0.48459578, w: 0.6767921}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Arm_R_1
+      position: {x: -5.551115e-19, y: 1.110223e-18, z: 8.584713e-18}
+      rotation: {x: 0.01262909, y: -0.5216776, z: 0.038501076, w: 0.8521799}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Arm_R_2
+      position: {x: -0.014363972, y: -1.110223e-18, z: -1.9409725e-18}
+      rotation: {x: -0.000109076485, y: 0.0032914486, z: -0.056293987, w: -0.9984088}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Arm_R
+      position: {x: -0.013932897, y: -2.220446e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Hand_R
+      position: {x: -0.0143748615, y: 0.0004809032, z: 0.000000106348}
+      rotation: {x: -0.011816773, y: -0.019279083, z: -0.04569829, w: 0.99869937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Hand_R
+      position: {x: 1.8041123e-18, y: 5.551115e-19, z: -8.3266725e-19}
+      rotation: {x: 0.000000059604638, y: 0.00000008940696, z: 0.000000059604638,
+        w: -1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Hand_R
+      position: {x: -0.005, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Heart_R
+      position: {x: -0.004963161, y: 0.0004557646, z: -0.00024162108}
+      rotation: {x: 0.99612916, y: -0.08647966, z: 0.008139887, w: 0.013482268}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_R_1
+      position: {x: 9.790345e-19, y: 0, z: -8.1532003e-19}
+      rotation: {x: -0.00000011920929, y: 0.007247621, z: 0.03773674, w: -0.99926144}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_R_2
+      position: {x: -0.0015, y: 0, z: 8.673617e-20}
+      rotation: {x: 0.000220716, y: -0.040214926, z: 0.0054857433, w: 0.999176}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Heart_R_3
+      position: {x: -0.0015, y: 5.551115e-19, z: 1.1362438e-18}
+      rotation: {x: -0.000025182957, y: -0.04021563, z: -0.0006255655, w: 0.9991908}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Heart_R
+      position: {x: -0.0015, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Index_R
+      position: {x: -0.00484111, y: -0.0018209597, z: -0.00031780815}
+      rotation: {x: 0.9775518, y: 0.21048792, z: 0.004550877, w: -0.00816753}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_R_1
+      position: {x: -2.7755575e-19, y: -1.8041123e-18, z: -2.5457067e-18}
+      rotation: {x: -0.000000059604623, y: -0.008141448, z: -0.06348863, w: -0.9979494}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_R_2
+      position: {x: -0.0014, y: -1.0061396e-18, z: -1.7347235e-18}
+      rotation: {x: 0.00022095435, y: -0.040215053, z: 0.0054856073, w: 0.999176}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Index_R_3
+      position: {x: -0.0014, y: 3.2699537e-18, z: -2.3418765e-19}
+      rotation: {x: -0.000025123349, y: -0.04021555, z: -0.0006255505, w: 0.99919087}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Index_R
+      position: {x: -0.0014, y: 0, z: -4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Middle_R
+      position: {x: -0.0050023757, y: -0.0006919284, z: -0.0002224911}
+      rotation: {x: 0.9975504, y: 0.06815472, z: 0.00596361, w: 0.014576168}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_R_1
+      position: {x: 1.3877787e-18, y: 2.7755575e-19, z: 1.6132928e-18}
+      rotation: {x: 0.00000011920933, y: 0.0073750196, z: -0.03902805, w: -0.99921095}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_R_2
+      position: {x: -0.0017, y: 2.220446e-18, z: -1.179612e-18}
+      rotation: {x: 0.00022092462, y: -0.040214986, z: 0.005485624, w: 0.999176}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Middle_R_3
+      position: {x: -0.0017, y: 0, z: 1.110223e-18}
+      rotation: {x: -0.00002527236, y: -0.04021564, z: -0.0006256101, w: 0.9991908}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Middle_R
+      position: {x: -0.0017, y: 2.220446e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Pinky_R
+      position: {x: -0.0045769135, y: 0.0013836012, z: -0.00038021672}
+      rotation: {x: 0.9761726, y: -0.21272367, z: 0.021843152, w: -0.036857758}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:BN_Pinky_R_1
+      position: {x: -0, y: -5.551115e-19, z: -3.469447e-18}
+      rotation: {x: 0.00000068545324, y: 0.008748008, z: 0.2093058, w: -0.9778111}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:BN_Pinky_R_2
+      position: {x: -0.0014, y: 5.551115e-19, z: 6.9388935e-19}
+      rotation: {x: 0.00022077555, y: -0.040215034, z: 0.005485742, w: 0.999176}
+      scale: {x: 1, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:BN_Pinky_R_3
+      position: {x: -0.0014, y: -5.551115e-19, z: 2.9143353e-18}
+      rotation: {x: -0.000025063744, y: -0.040215626, z: -0.0006256101, w: 0.9991908}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Pinky_R
+      position: {x: -0.0014, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:rt_Thumb_R
+      position: {x: -0.0016470703, y: -0.0013000132, z: 0.0011727473}
+      rotation: {x: 0.7202662, y: 0.41163048, z: -0.058979616, w: 0.5552463}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_R_1
+      position: {x: -2.220446e-18, y: -2.0122792e-18, z: 2.7755575e-19}
+      rotation: {x: -0.00000007450579, y: -0.15767764, z: -0.22402078, w: -0.96174455}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_R_2
+      position: {x: -0.0018999999, y: 6.1582683e-18, z: 1.110223e-18}
+      rotation: {x: 0.00022089476, y: -0.040214997, z: 0.005485632, w: 0.999176}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:bn_Thumb_R_3
+      position: {x: -0.0017, y: 3.1398494e-18, z: 5.551115e-19}
+      rotation: {x: -0.000025354317, y: -0.040215667, z: -0.0006254853, w: 0.9991908}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: mdl_Enemy05:eff_Thumb_R
+      position: {x: -0.0018999999, y: -2.220446e-18, z: -2.220446e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

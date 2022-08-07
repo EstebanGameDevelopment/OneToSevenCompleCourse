@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 5206e316bb8148241a6f30fdebdbbb79
+timeCreated: 1444842457
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: GemStone100
+    100002: GemStone101
+    100004: GemStone200
+    100006: GemStone201
+    100008: GemStone202
+    100010: GemStone300
+    100012: GemStone301
+    100014: GemStone400
+    100016: GemStone401
+    100018: Rock_03_005
+    100020: //RootNode
+    400000: GemStone100
+    400002: GemStone101
+    400004: GemStone200
+    400006: GemStone201
+    400008: GemStone202
+    400010: GemStone300
+    400012: GemStone301
+    400014: GemStone400
+    400016: GemStone401
+    400018: Rock_03_005
+    400020: //RootNode
+    2300000: GemStone100
+    2300002: GemStone101
+    2300004: GemStone200
+    2300006: GemStone201
+    2300008: GemStone202
+    2300010: GemStone300
+    2300012: GemStone301
+    2300014: GemStone400
+    2300016: GemStone401
+    2300018: Rock_03_005
+    3300000: GemStone100
+    3300002: GemStone101
+    3300004: GemStone200
+    3300006: GemStone201
+    3300008: GemStone202
+    3300010: GemStone300
+    3300012: GemStone301
+    3300014: GemStone400
+    3300016: GemStone401
+    3300018: Rock_03_005
+    4300000: GemStone202
+    4300002: GemStone401
+    4300004: GemStone201
+    4300006: GemStone101
+    4300008: GemStone301
+    4300010: Rock_03_005
+    4300012: GemStone100
+    4300014: GemStone200
+    4300016: GemStone300
+    4300018: GemStone400
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

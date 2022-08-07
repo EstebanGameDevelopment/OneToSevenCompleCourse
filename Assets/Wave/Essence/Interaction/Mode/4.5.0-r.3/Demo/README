@@ -1,0 +1,12 @@
+Ths "NaturalHand" sample uses the Wave XR plugin pinch temporary achievement by default.
+The achievement depends on the Main Camera and wrist location and works only when the hand service does NOT provide the pinch origin/direction.
+You may need to configure the "Pinch Offset X" and "Pinch Offset Y" value in EventSystem > NaturalHandInputModule to change the pinch pointer location.
+
+If you would like to use the Wave hand service pinch solution instead of XR plugin pinch temporary achievement, you need to
+1. Enable the "IgnoreMe" GameObject.
+2. Disable the "XRLeftHand" GameObject.
+3. Disable the "XRRightHand" GameObject.
+4. In EventSystem, remove the "Natural Hand Input Module"
+5. In EventSystem, add the "Hand Input Module"
+6. In EventSystem > HandInputModule, click the button "Creates a right selector" and "Creates a left selector".
+7. In EventSystem > HandInputModule, select the "Ignore Mode".
