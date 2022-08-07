@@ -1,0 +1,3 @@
+[submodule "Assets/Game/Libraries/Utils"]
+	path = Assets/Game/Libraries/Utils
+	url = https://github.com/EstebanGameDevelopment/OneToSevenUtils.git
