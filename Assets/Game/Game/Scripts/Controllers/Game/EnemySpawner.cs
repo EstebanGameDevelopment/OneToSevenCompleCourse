@@ -67,6 +67,7 @@ namespace YourVRExperience.Game
                 if (!GameController.Instance.IsMultiplayerGame)
                 {
                     m_enemy = Instantiate(EnemyPrefab) as Enemy;
+                    InitEnemy();
                 }
                 else
                 {
