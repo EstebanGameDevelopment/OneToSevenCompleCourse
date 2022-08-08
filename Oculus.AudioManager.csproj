@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FE3E64F5-F8D3-E390-BB4F-87D33D19B1B2}</ProjectGuid>
+    <ProjectGuid>{9747C976-199C-4CA3-55AB-E79BE6E18491}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.AudioManager</AssemblyName>
@@ -746,7 +746,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{B2EA62F1-F306-5501-01BF-D08FE67BE396}</Project>
+      <Project>{5F6A6D0D-26F8-AD70-133E-F78FB6E65BF7}</Project>
       <Name>Oculus.Spatializer</Name>
     </ProjectReference>
   </ItemGroup>

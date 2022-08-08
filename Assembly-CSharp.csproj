@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3BF42595-AC5B-56D1-E298-2811D2E9FDF6}</ProjectGuid>
+    <ProjectGuid>{3A84CB91-A828-5423-63C7-9CED05DFD4FF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -258,6 +258,7 @@
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\LocomotionSampleSupport.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\SpatialAnchorLoader.cs" />
     <Compile Include="Assets\Game\Libraries\VR\HTCVive\Scripts\HTCHeadController.cs" />
+    <Compile Include="Assets\Game\Libraries\Utils\Controllers\Camera\CameraFinder.cs" />
     <Compile Include="Assets\PicoMobileSDK\Pvr_Achievement\Scripts\Pvr_Callback.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Interactable.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\TouchControllers\TouchController.cs" />
@@ -352,7 +353,6 @@
     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorUIManager.cs" />
     <Compile Include="Assets\Game\Game\Scripts\Controllers\Game\EnemySpawner.cs" />
     <Compile Include="Assets\Game\Libraries\Utils\Controllers\Camera\ICameraPlayer.cs" />
-    <Compile Include="Assets\Game\Libraries\Utils\Controllers\Camera\CameraFinder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
@@ -1211,219 +1211,219 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{697A4E9B-0DE2-1132-B1C6-3B03CFE4D36B}</Project>
+      <Project>{7B126BFC-1894-8121-6741-1D439A293993}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{4E67C1B4-41FD-19C1-B3E0-E27DBB85D96A}</Project>
+      <Project>{8CD32336-6698-BEE7-AAC3-A092D6D3CF4E}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="kcp2k.csproj">
-      <Project>{1E888A97-1CF2-6B88-B3E4-1AAD23594375}</Project>
+      <Project>{C9C1B45C-545E-E57A-8518-EBFCCA4EDED7}</Project>
       <Name>kcp2k</Name>
     </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKEditor.csproj">
-      <Project>{81C63910-6B7A-88A9-09A7-6BC3C8D4275B}</Project>
+      <Project>{6DA6421B-D630-97D4-69C0-04F060236E5B}</Project>
       <Name>AssistantCoreSDKEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Voice.Demo.csproj">
-      <Project>{F6923FD1-C124-A4FA-2040-12ABD95FF6D5}</Project>
+      <Project>{30396FE3-B3E1-C9C7-A0E4-4AD84163AA6C}</Project>
       <Name>Oculus.Voice.Demo</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.csproj">
-      <Project>{FE3E64F5-F8D3-E390-BB4F-87D33D19B1B2}</Project>
+      <Project>{9747C976-199C-4CA3-55AB-E79BE6E18491}</Project>
       <Name>Oculus.AudioManager</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.csproj">
-      <Project>{F352C08E-86DC-0F67-CE1A-B152EE8ED413}</Project>
+      <Project>{9ECB8D9B-12D9-0814-6095-698606647AE6}</Project>
       <Name>Oculus.Interaction</Name>
     </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
-      <Project>{34A6708A-38F8-AB4B-86B5-956B0ED13B40}</Project>
+      <Project>{B4ADCA82-C2D8-6E6C-063F-81AA101C9BC6}</Project>
       <Name>AssistantCoreSDKRuntime</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.Controller.Model.csproj">
-      <Project>{FD673759-74A3-BA22-C1A5-4E230F45FE49}</Project>
+      <Project>{3A202195-1B30-55DC-8198-41910AC9AC10}</Project>
       <Name>Wave.Essence.Controller.Model</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.Utils.Editor.csproj">
-      <Project>{FC07DE1E-93E7-781E-287B-F9D2AA26CDB7}</Project>
+      <Project>{3F3AEF33-7AE7-53A5-E01E-8C276B097245}</Project>
       <Name>Oculus.AudioManager.Utils.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{C60D4970-1E75-F009-49C8-5EDB49179DA1}</Project>
+      <Project>{7CAA4CDD-6F4C-A316-D405-E79D826FE154}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{F5340328-8591-9E05-9CA8-5AA9A506127E}</Project>
+      <Project>{85CA516A-9F91-196A-BCFF-B9FB5EB228B3}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoHubEditor.csproj">
-      <Project>{32FB36EE-0A1D-C167-BB33-75E0B1A8D4E9}</Project>
+      <Project>{48C32395-D6D8-3CF6-9B63-FC90517FD811}</Project>
       <Name>PunDemos.DemoHubEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.WitAI.csproj">
-      <Project>{8DB4DC66-98A7-989B-A5F7-266EBEE9FC3D}</Project>
+      <Project>{E734D746-3991-5081-78B2-094545971F38}</Project>
       <Name>Facebook.WitAI</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.InputModule.csproj">
-      <Project>{DA0027DE-42CA-79CE-A460-1AA0C5972146}</Project>
+      <Project>{1765E4FE-E6AC-EA48-BF1C-9A8CF9FDC2CB}</Project>
       <Name>Wave.Essence.InputModule</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{1015CCB6-6EDB-B198-2610-517E093060A3}</Project>
+      <Project>{86E050A8-12F2-A463-DC70-D79523C1D49F}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.Hand.Model.csproj">
-      <Project>{1D0DB0A9-E137-8688-9CAA-ADB311423398}</Project>
+      <Project>{9F557879-D400-A5C4-EE06-CE8F51EDCE37}</Project>
       <Name>Wave.Essence.Hand.Model</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{6B49CF51-D159-8379-2C18-6CD8DDE2E0ED}</Project>
+      <Project>{36DCBB2F-1923-E85B-06AA-6FBB590D8F85}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
-      <Project>{F4594349-9575-3299-2972-246281D8240B}</Project>
+      <Project>{97E82742-85A0-FD25-5D44-31A7EA09C110}</Project>
       <Name>Oculus.AudioManager.Audio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.csproj">
-      <Project>{A78C143C-D4D7-8292-DA5D-4F2D21D2428C}</Project>
+      <Project>{1551177E-31D8-3660-EBFA-5DC1E0C1F534}</Project>
       <Name>Oculus.Platform</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Editor.csproj">
-      <Project>{C1F93C26-7C78-0042-2F4B-84E7AAAD8779}</Project>
+      <Project>{208CFF2C-5841-D4A5-A9D1-A587EF8E800D}</Project>
       <Name>Mirror.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Spatializer.Editor.csproj">
-      <Project>{362ED803-29F5-9A82-F3B8-743DAD14E0C6}</Project>
+      <Project>{A93E4F09-782A-6809-3D22-313FE421A8CC}</Project>
       <Name>Oculus.Spatializer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{14220FA9-AF6B-BD2F-1223-1CAC89B025D0}</Project>
+      <Project>{8B768987-A04F-24D6-B209-395B403D190F}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.CompilerSymbols.csproj">
-      <Project>{078D323F-7B90-5832-291D-29462732E86A}</Project>
+      <Project>{A851039D-463F-BE3D-AD61-CD075F5C2C98}</Project>
       <Name>Mirror.CompilerSymbols</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Authenticators.csproj">
-      <Project>{74C76B30-97AA-35C2-3481-98D7321494B0}</Project>
+      <Project>{CF07C1E8-8F8A-C9C2-084A-B2A99415AF9B}</Project>
       <Name>Mirror.Authenticators</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{A7E2AD26-B8AF-72CF-3EE4-B5221607E063}</Project>
+      <Project>{A2463524-23AB-F3A9-CC5A-43F905AF1206}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
     <ProjectReference Include="Telepathy.csproj">
-      <Project>{471AA67F-01FF-1168-AA95-4D8E254FC243}</Project>
+      <Project>{A90F7808-0F35-39C0-639B-A349F70449E0}</Project>
       <Name>Telepathy</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.TTS.csproj">
-      <Project>{AF3D6994-36C3-21F4-50B8-1C362B408DAA}</Project>
+      <Project>{41EB02FC-01D8-BC5C-2079-2CC1B8E9165F}</Project>
       <Name>Facebook.Wit.TTS</Name>
     </ProjectReference>
     <ProjectReference Include="where-allocations.csproj">
-      <Project>{387BE9D7-11D3-6ABE-C4C2-04BB55B55C78}</Project>
+      <Project>{7B061EB5-EDC1-C5FC-4E8C-82EBB57BDB29}</Project>
       <Name>where-allocations</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoSlotcarEditor.csproj">
-      <Project>{0C3B2CBA-6BFC-D75D-E9E2-832ED1FC4B87}</Project>
+      <Project>{79C5137F-F893-2D13-E5BE-D0FCAE88E411}</Project>
       <Name>PunDemos.DemoSlotcarEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
-      <Project>{88AAFA84-9927-5D2F-2AE6-731A2174CC3F}</Project>
+      <Project>{7C86CC0E-F847-863B-46E6-30B9CB69F7EB}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.TTS.Editor.csproj">
-      <Project>{4C2A6B2F-ED38-892A-ACD1-ADBFAFA687A1}</Project>
+      <Project>{6A229F2D-D708-2F7A-37FB-AAFAF3D275D7}</Project>
       <Name>Facebook.Wit.TTS.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.Interaction.Mode.csproj">
-      <Project>{DA73341A-38C4-5813-9CD2-878D429F3F12}</Project>
+      <Project>{F2A0562D-314F-D391-8475-5CC28132E508}</Project>
       <Name>Wave.Essence.Interaction.Mode</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{410035CA-DD93-DACF-6403-5906B5508CE5}</Project>
+      <Project>{382CD537-A684-EAA0-EEE0-00268C8EE86F}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Samples.csproj">
-      <Project>{58931C5A-F251-0E5D-6120-45B7D7A6586F}</Project>
+      <Project>{6EDD53AA-D3CC-4FB7-B4D5-906464E9186D}</Project>
       <Name>Oculus.Interaction.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{8E321E88-AC17-6ECF-5613-B5B31D89D3AC}</Project>
+      <Project>{B2EAA5C8-F1E2-C1EC-AF2A-2F3398ADADEB}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Samples.Editor.csproj">
-      <Project>{D5BC2CE3-E265-0D34-F669-A1A6B4348D4F}</Project>
+      <Project>{53300752-9351-78D9-67D4-D7E1EDCF5BAD}</Project>
       <Name>Oculus.Interaction.Samples.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{43CC77F4-8825-D688-8EE3-6DB7BA1A152D}</Project>
+      <Project>{CCABF83D-4B5D-2C21-D1CE-548DBB88CDDA}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Editor.csproj">
-      <Project>{47ADAE80-7142-72B9-E269-B3F9C5742A56}</Project>
+      <Project>{C7FC867F-1011-56C8-192E-E49F686038C0}</Project>
       <Name>Oculus.Interaction.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{7248B45F-87ED-5D84-4570-6255A276954F}</Project>
+      <Project>{3C4E59FD-084F-14C9-7E27-40F1529EED3A}</Project>
       <Name>Oculus.VR.Scripts.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{B2EA62F1-F306-5501-01BF-D08FE67BE396}</Project>
+      <Project>{5F6A6D0D-26F8-AD70-133E-F78FB6E65BF7}</Project>
       <Name>Oculus.Spatializer</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Examples.csproj">
-      <Project>{95D447D2-D63B-A363-0677-DE4B178EB6D1}</Project>
+      <Project>{C6B75EDD-4B27-F50E-5C78-30682B3DF2B9}</Project>
       <Name>Mirror.Examples</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{211B64C8-3F03-BD6C-3B75-19E69B0786AE}</Project>
+      <Project>{582DA2C5-84F9-47C7-B045-E3F76A542D58}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{74E1CAEC-51DB-C3AC-CC6A-8030A7E9E275}</Project>
+      <Project>{B97863CA-A25A-299D-54AD-D920F99B93BB}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Editor.csproj">
-      <Project>{451F92C9-E6AB-32CD-F2D5-72751C9E21A5}</Project>
+      <Project>{0D7C43C5-B32A-F7B1-A46A-DFE1225A0816}</Project>
       <Name>VoiceSDK.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.InterfaceSupport.csproj">
-      <Project>{DFB93DB3-6002-4A3B-1996-F910C0F381E1}</Project>
+      <Project>{E8ACEC4C-B5DB-DDBF-EB4C-89E1A47F433B}</Project>
       <Name>Oculus.Interaction.InterfaceSupport</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.Editor.csproj">
-      <Project>{6E5AE96B-7470-FBB1-C670-C9B839CA3F0F}</Project>
+      <Project>{E98E631B-25F0-C1E3-91FC-4039F5DF0D7F}</Project>
       <Name>Facebook.Wit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.Editor.csproj">
-      <Project>{BFCF2894-FB3A-A3BB-8B8D-9839733ED43D}</Project>
+      <Project>{0D19D662-F392-0283-FE2A-9CEFAD76F470}</Project>
       <Name>Oculus.Platform.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.LipSync.Editor.csproj">
-      <Project>{402A8843-790F-5656-11F6-8B68115B7A15}</Project>
+      <Project>{5F2A2577-730C-3F05-8BD2-DAF7EF3E38CE}</Project>
       <Name>Oculus.LipSync.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Demos.csproj">
-      <Project>{0E656CC3-8671-E1BF-EAF2-78D9D93F84C1}</Project>
+      <Project>{CA56399A-257A-C372-93FE-FCB808C88662}</Project>
       <Name>PhotonUnityNetworking.Demos</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.TTS.Samples.csproj">
-      <Project>{D2ECBAEA-0206-A87C-DEA8-DB99E8B97B18}</Project>
+      <Project>{B717388C-F429-36F5-3FEA-CEDB81884FE4}</Project>
       <Name>Facebook.Wit.TTS.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.LipSync.csproj">
-      <Project>{E6925755-DF18-2785-1221-EE2BC6DDDC2F}</Project>
+      <Project>{C4672E5E-347F-62BA-ACE0-0EE040EEA961}</Project>
       <Name>Oculus.LipSync</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
-      <Project>{1333C76B-537D-85F8-D03F-738EF1835553}</Project>
+      <Project>{604A2DAB-6834-F90B-E232-A91CEAF0AD72}</Project>
       <Name>VoiceSDK.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="SimpleWebTransport.csproj">
-      <Project>{E1CE9735-1C5C-EC0E-1256-A37947D6FCC5}</Project>
+      <Project>{E7556985-0B3B-4083-3E2B-E287A1D084EA}</Project>
       <Name>SimpleWebTransport</Name>
     </ProjectReference>
   </ItemGroup>

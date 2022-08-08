@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{362ED803-29F5-9A82-F3B8-743DAD14E0C6}</ProjectGuid>
+    <ProjectGuid>{A93E4F09-782A-6809-3D22-313FE421A8CC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Spatializer.Editor</AssemblyName>
@@ -773,7 +773,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{B2EA62F1-F306-5501-01BF-D08FE67BE396}</Project>
+      <Project>{5F6A6D0D-26F8-AD70-133E-F78FB6E65BF7}</Project>
       <Name>Oculus.Spatializer</Name>
     </ProjectReference>
   </ItemGroup>

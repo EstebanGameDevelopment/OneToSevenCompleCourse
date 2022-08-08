@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DA0027DE-42CA-79CE-A460-1AA0C5972146}</ProjectGuid>
+    <ProjectGuid>{1765E4FE-E6AC-EA48-BF1C-9A8CF9FDC2CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Wave.Essence.InputModule</AssemblyName>

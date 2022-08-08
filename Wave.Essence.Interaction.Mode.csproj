@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DA73341A-38C4-5813-9CD2-878D429F3F12}</ProjectGuid>
+    <ProjectGuid>{F2A0562D-314F-D391-8475-5CC28132E508}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Wave.Essence.Interaction.Mode</AssemblyName>
@@ -764,15 +764,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Wave.Essence.Controller.Model.csproj">
-      <Project>{FD673759-74A3-BA22-C1A5-4E230F45FE49}</Project>
+      <Project>{3A202195-1B30-55DC-8198-41910AC9AC10}</Project>
       <Name>Wave.Essence.Controller.Model</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.InputModule.csproj">
-      <Project>{DA0027DE-42CA-79CE-A460-1AA0C5972146}</Project>
+      <Project>{1765E4FE-E6AC-EA48-BF1C-9A8CF9FDC2CB}</Project>
       <Name>Wave.Essence.InputModule</Name>
     </ProjectReference>
     <ProjectReference Include="Wave.Essence.Hand.Model.csproj">
-      <Project>{1D0DB0A9-E137-8688-9CAA-ADB311423398}</Project>
+      <Project>{9F557879-D400-A5C4-EE06-CE8F51EDCE37}</Project>
       <Name>Wave.Essence.Hand.Model</Name>
     </ProjectReference>
   </ItemGroup>

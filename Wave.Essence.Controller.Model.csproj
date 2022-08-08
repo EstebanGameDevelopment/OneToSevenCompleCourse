@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FD673759-74A3-BA22-C1A5-4E230F45FE49}</ProjectGuid>
+    <ProjectGuid>{3A202195-1B30-55DC-8198-41910AC9AC10}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Wave.Essence.Controller.Model</AssemblyName>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F6923FD1-C124-A4FA-2040-12ABD95FF6D5}</ProjectGuid>
+    <ProjectGuid>{30396FE3-B3E1-C9C7-A0E4-4AD84163AA6C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Voice.Demo</AssemblyName>
@@ -743,11 +743,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Facebook.WitAI.csproj">
-      <Project>{8DB4DC66-98A7-989B-A5F7-266EBEE9FC3D}</Project>
+      <Project>{E734D746-3991-5081-78B2-094545971F38}</Project>
       <Name>Facebook.WitAI</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
-      <Project>{1333C76B-537D-85F8-D03F-738EF1835553}</Project>
+      <Project>{604A2DAB-6834-F90B-E232-A91CEAF0AD72}</Project>
       <Name>VoiceSDK.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{451F92C9-E6AB-32CD-F2D5-72751C9E21A5}</ProjectGuid>
+    <ProjectGuid>{0D7C43C5-B32A-F7B1-A46A-DFE1225A0816}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VoiceSDK.Editor</AssemblyName>
@@ -779,19 +779,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
-      <Project>{1333C76B-537D-85F8-D03F-738EF1835553}</Project>
+      <Project>{604A2DAB-6834-F90B-E232-A91CEAF0AD72}</Project>
       <Name>VoiceSDK.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.WitAI.csproj">
-      <Project>{8DB4DC66-98A7-989B-A5F7-266EBEE9FC3D}</Project>
+      <Project>{E734D746-3991-5081-78B2-094545971F38}</Project>
       <Name>Facebook.WitAI</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.Editor.csproj">
-      <Project>{6E5AE96B-7470-FBB1-C670-C9B839CA3F0F}</Project>
+      <Project>{E98E631B-25F0-C1E3-91FC-4039F5DF0D7F}</Project>
       <Name>Facebook.Wit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.TTS.Editor.csproj">
-      <Project>{4C2A6B2F-ED38-892A-ACD1-ADBFAFA687A1}</Project>
+      <Project>{6A229F2D-D708-2F7A-37FB-AAFAF3D275D7}</Project>
       <Name>Facebook.Wit.TTS.Editor</Name>
     </ProjectReference>
   </ItemGroup>

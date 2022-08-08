@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8DB4DC66-98A7-989B-A5F7-266EBEE9FC3D}</ProjectGuid>
+    <ProjectGuid>{E734D746-3991-5081-78B2-094545971F38}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Facebook.WitAI</AssemblyName>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{81C63910-6B7A-88A9-09A7-6BC3C8D4275B}</ProjectGuid>
+    <ProjectGuid>{6DA6421B-D630-97D4-69C0-04F060236E5B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AssistantCoreSDKEditor</AssemblyName>
@@ -768,7 +768,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
-      <Project>{34A6708A-38F8-AB4B-86B5-956B0ED13B40}</Project>
+      <Project>{B4ADCA82-C2D8-6E6C-063F-81AA101C9BC6}</Project>
       <Name>AssistantCoreSDKRuntime</Name>
     </ProjectReference>
   </ItemGroup>

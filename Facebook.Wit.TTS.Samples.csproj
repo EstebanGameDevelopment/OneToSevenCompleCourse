@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D2ECBAEA-0206-A87C-DEA8-DB99E8B97B18}</ProjectGuid>
+    <ProjectGuid>{B717388C-F429-36F5-3FEA-CEDB81884FE4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Facebook.Wit.TTS.Samples</AssemblyName>
@@ -741,7 +741,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Facebook.Wit.TTS.csproj">
-      <Project>{AF3D6994-36C3-21F4-50B8-1C362B408DAA}</Project>
+      <Project>{41EB02FC-01D8-BC5C-2079-2CC1B8E9165F}</Project>
       <Name>Facebook.Wit.TTS</Name>
     </ProjectReference>
   </ItemGroup>

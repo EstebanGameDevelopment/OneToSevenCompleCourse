@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1D0DB0A9-E137-8688-9CAA-ADB311423398}</ProjectGuid>
+    <ProjectGuid>{9F557879-D400-A5C4-EE06-CE8F51EDCE37}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Wave.Essence.Hand.Model</AssemblyName>
